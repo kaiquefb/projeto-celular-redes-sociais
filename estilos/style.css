@@ -19,7 +19,7 @@ body {
 }
 
 main {
-    height: 100vh;
+    height: 97vh;
     position: relative;
 }
 
@@ -29,18 +29,18 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
-    background: url(../imagens/frame-iphone.png) no-repeat;
+    height: 600px;
+    width: 298px;
+    background: url(../imagens/frame-iphone-new.png) no-repeat;
 
 }
 
 iframe#tela {
     position: relative;
-    top: 80px;
+    top: 77px;
     left: 22px;
-    width: 269px;
-    height: 471px;
+    width: 255px;
+    height: 450px;
 }
 
 section#redes-sociais {
