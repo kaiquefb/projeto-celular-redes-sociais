@@ -1,3 +1,3 @@
-# projeto-redes-sociais-html-css
+# projeto-celular-redes-sociais
 
-https://kaiquefb.github.io/projeto-redes-sociais-html-css/
+https://kaiquefb.github.io/projeto-celular-redes-sociais/
